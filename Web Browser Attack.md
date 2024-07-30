@@ -1,4 +1,4 @@
-![image12](https://github.com/user-attachments/assets/c70240ce-c947-4c3c-b6e5-72728ab941ed)## Objective
+## Objective
 In this lab, I am setting up a fake Facebook website, then sending the
 link to that fake website via email to the target. The target will login
 to the fake facebook which will run an exploit through metasploit to
