@@ -76,7 +76,7 @@ in this case i do 'sessions -i 1' to interact with the first machine
 ![image9](https://github.com/user-attachments/assets/c29feb7c-57ef-4af9-a3af-0399fff96fb7)
 
 
-## **Stealing Data - [[Working in a Meterpreter Shell]{.underline}](https://docs.google.com/document/d/1ww7Tdts1mNIEKEzmUEuEu2cWaBv3Tr-fGKvRfu_FwK0/edit)**
+## **Stealing Data - [[Working in a Meterpreter Shell]](https://docs.google.com/document/d/1ww7Tdts1mNIEKEzmUEuEu2cWaBv3Tr-fGKvRfu_FwK0/edit)**
 
 **'pwd'** to find the **present working directory** to figure out where
 I am
