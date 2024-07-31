@@ -28,8 +28,6 @@ I selected (1) for Social-Engineering Attacks
 I'm not sure what the next step meant, but I put in "no" for using
 NAT/port forwarding
 
-![image7](https://github.com/user-attachments/assets/02c84419-4212-45cf-92f4-ae91eb8386c5)
-
 I typed my host IP address which was "175.45.176.199"
 
 \(3\) to use the Facebook web template
@@ -44,6 +42,8 @@ Waited for a bunch of messages from Metasploit starting the server w/
 exploits
 
 Waited until "Done, found x exploit modules"
+
+![image7](https://github.com/user-attachments/assets/02c84419-4212-45cf-92f4-ae91eb8386c5)
 
 ## **Getting Attacked - Using the Target System**
 
