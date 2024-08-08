@@ -10,7 +10,7 @@ The original email looked like this
 ![image1](https://github.com/user-attachments/assets/09f96246-1685-4151-b945-259746b20d2b)
 
 
-This is what I believe an improved version of the email could look like:
+Fixing some grammar, adding a sense of urgency, and overall making it look more authentic - this is what I believe an improved version of the email could look like:
 
 ![image2](https://github.com/user-attachments/assets/d4c5c491-844e-4952-9a54-41cc7983e5cb)
 
@@ -31,5 +31,5 @@ department about phishing [linked
 here](https://docs.google.com/presentation/d/1Z09cHT1KuHFMbWuMYQ0E6LulhlsCWGUA/edit?usp=drive_link&ouid=106467889851699668673&rtpof=true&sd=true).
 
 For the future, it would be better if I included more visuals such as
-pictures of an example phishing email so that it's not just a bunch of
+pictures of an example phishing email to make it more engaging to keep interest so that it's not just a bunch of
 text that the employees have to look at.
