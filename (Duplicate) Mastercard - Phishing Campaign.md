@@ -1,3 +1,5 @@
+This is a duplicate page, from my "The Forage Job Simulations" repository.
+
 ## Task 1: Designing a phishing email 
 
 The simulation starts with a quick review on phishing, then asks me to
